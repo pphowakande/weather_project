@@ -1,0 +1,15 @@
+{
+  "apikey": "",
+  "weatherendpoint": "https://api.weatherstack.com/historical",
+  "dbconfig": {
+      "dbuser": "poonam",
+      "dbpassword": "poonam",
+      "dbhost": "127.0.0.1",
+      "dbname": "weather",
+      "dbport": "5432",
+      "cityset": "master_city",
+      "codeset": "weather_codes",
+      "historicalset" :"historical_data",
+      "historicalhourlyset" : "historical_hourly_data"
+  }
+}
